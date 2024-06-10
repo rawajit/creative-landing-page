@@ -1,0 +1,12 @@
+# Site settings
+title: اسم الشركة
+email: mirsal@rawajit.com
+description: شعار الشركة اللفظي
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+instagram_username: rawaj_it
+linkedin_username: rawaj-it
+
+# Build settings
+markdown: kramdown
