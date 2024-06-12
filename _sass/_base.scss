@@ -59,7 +59,71 @@ p {
 section {
     padding: 100px 0;
 }
-
+.text-white {
+  color: #ffffff;
+}
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.border-0 {
+  border: 0;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.fixed {
+  position: fixed;
+}
+.top-0 {
+  top: 0;
+}
+.flex {
+  display: flex;
+}
+.center {
+  align-items: center; 
+  justify-content: center; 
+}
+.rtl {
+  direction: rtl;
+}
+.bg-blueGray-500 {
+  background-color: #64748b; /* Tailwind v2.2 background color for blueGray-500 */
+}
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.inline-block {
+  display: inline-block;
+}
+.mr-5 {
+  margin-right: 1.25rem;
+}
+.align-middle {
+  vertical-align: middle;
+}
+.m-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
+.scroll {
+  overflow: scroll;
+}
+.w-full {
+  width: 100%
+}
+.z-200 {
+  z-index: 200;
+}
+.mt-4 {
+  margin-top: 4rem;
+}
 aside {
     padding: 50px 0;
 }
